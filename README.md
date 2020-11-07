@@ -8,7 +8,7 @@ Developer Consultant at [CGI](https://www.cgi.com/en)
 
 ```javascript
 const ferdi = {
-  pronouns: "he" | "him",
+  pronouns: "he" | "his",
   code: [Bash, PowerShell, Python, Scala, LaTeX],
   tools: [AzureDevOps, Terraform, Databricks, AzureML, Docker, Kubernetes]
 }
