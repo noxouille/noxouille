@@ -4,13 +4,13 @@
 
 Developer Consultant at [CGI](https://www.cgi.com/en)
 
-### <img src="https://media.giphy.com/media/146gtxJUW6IR7W/giphy.gif" width=50> A little more about me... 
+### <img src="https://media.giphy.com/media/146gtxJUW6IR7W/giphy.gif" width=50> A little bit about me... 
 
 ```javascript
 const ferdi = {
   pronouns: "he" | "his",
-  code: [Bash, PowerShell, Python, Scala, LaTeX],
-  stack: [AzureDevOps, Terraform, Databricks, AzureML, Docker, Kubernetes]
+  code: [bash, powershell, python, scala, latex],
+  stack: [azuredevops, terraform, databricks, azureml, docker, kubernetes]
 }
 ```
 
