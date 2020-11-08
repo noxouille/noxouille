@@ -16,7 +16,7 @@ const ferdi = {
 
 Check out [my blog](https://ferdi.now.sh) for more details about me.
 
-### <img src="https://i.imgur.com/uYxC2D8.png"> A little more about my keyboard... 
+### <img src="https://i.imgur.com/GrRvZfn.png"> A little more about my keyboard... 
 
 Check out the [build process](https://ferdi.now.sh/TFV2-silent-linear-build/) if you are interested or a fellow enthusiast.
 
